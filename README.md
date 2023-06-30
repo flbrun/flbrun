@@ -1,6 +1,13 @@
 ## Hi 👋, I'm Florian
 ### A passionate fullstack developer from Germany
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flbrun&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flbrun&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flbrun&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flbrun&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flbrun&theme=dracula)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flbrun&label=Profile%20views&color=0e75b6&style=flat" alt="flbrun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flbrun" alt="flbrun" /></a> </p>
