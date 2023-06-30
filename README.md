@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Florian
-<h3 align="center">A passionate fullstack developer from Germany</h3>
+## A passionate fullstack developer from Germany
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flbrun&label=Profile%20views&color=0e75b6&style=flat" alt="flbrun" /> </p>
 
