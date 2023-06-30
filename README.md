@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flbrun&label=Profile%20views&color=0e75b6&style=flat" alt="flbrun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flbrun" alt="flbrun" /></a> </p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thebsdbox&theme=dracula)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/florian-brunner-618400267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian brunner" height="30" width="40" /></a>
