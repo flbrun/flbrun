@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flbrun&label=Profile%20views&color=0e75b6&style=flat" alt="flbrun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flbrun" alt="flbrun" /></a> </p>
+<p align="left"> <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flbrun&theme=dracula" alt="flbrun" /></a> </p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flbrun&theme=dracula)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
